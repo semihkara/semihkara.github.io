@@ -13,11 +13,11 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
-<!-- <div class="publications"> -->
+<div class="publications">
 
 <!-- {% bibliography %} -->
 
-{% bibliography --file journal %}
+{% _bibliography/journal %}
 
 <!-- ## Conference Publications
 {% bibliography --file conference %}
@@ -28,4 +28,4 @@ nav_order: 2
 ## Future Work Near Completion
 {% bibliography --file future_work %} -->
 
-<!-- </div> -->
+</div>
