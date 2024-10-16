@@ -14,13 +14,13 @@ nav_order: 5
 
 <div style="text-align: center;">
   <iframe 
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url={{ https://drive.google.com/file/d/1qgFj8SDHM4h_nfr7qdcwiGVzDMMnBHsn/view?usp=sharing }}/assets/files/CV.pdf" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url={{ https://semihkara.github.io }}/assets/pdf/CV.pdf" 
     width="80%" height="800px" style="border: none;">
   </iframe>
 </div>
 
 <p style="text-align: center;">
-  If the PDF does not load, you can <a href="{{ https://drive.google.com/file/d/1qgFj8SDHM4h_nfr7qdcwiGVzDMMnBHsn/view?usp=sharing }}/assets/files/CV.pdf" target="_blank">download it here</a>.
+  If the PDF does not load, you can <a href="{{ https://semihkara.github.io }}/assets/pdf/CV.pdf" target="_blank">download it here</a>.
 </p>
 
 
