@@ -15,17 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-<!-- {% bibliography %} -->
-
-{% _bibliography/journal %}
-
-<!-- ## Conference Publications
-{% bibliography --file conference %}
-
-## Preprints
-{% bibliography --file arxiv %}
-
-## Future Work Near Completion
-{% bibliography --file future_work %} -->
+{% bibliography %}
 
 </div>
