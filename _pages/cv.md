@@ -10,7 +10,22 @@ nav_order: 5
 #   sidebar: left
 ---
 
+<!-- FOR USE WITH GOOGLE DRIVE-->
+
 <div style="text-align: center;">
+  <iframe 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url={{ https://drive.google.com/file/d/1qgFj8SDHM4h_nfr7qdcwiGVzDMMnBHsn/view?usp=sharing }}/assets/files/CV.pdf" 
+    width="80%" height="800px" style="border: none;">
+  </iframe>
+</div>
+
+<p style="text-align: center;">
+  If the PDF does not load, you can <a href="{{ https://drive.google.com/file/d/1qgFj8SDHM4h_nfr7qdcwiGVzDMMnBHsn/view?usp=sharing }}/assets/files/CV.pdf" target="_blank">download it here</a>.
+</p>
+
+
+<!-- FOR USE WITH DROPBOX -->
+<!-- <div style="text-align: center;">
   <iframe 
     src="https://www.dropbox.com/scl/fi/aw56k6mbigm2nqzxg3iwj/CV.pdf?rlkey=1dpbcr9ki8ed7sztfywpol4ai&raw=1" 
     width="80%" height="800px" style="border: none;">
@@ -19,4 +34,5 @@ nav_order: 5
 
 <p style="text-align: center;">
   If the PDF does not load, you can <a href="https://www.dropbox.com/scl/fi/aw56k6mbigm2nqzxg3iwj/CV.pdf?rlkey=1dpbcr9ki8ed7sztfywpol4ai&raw=1" target="_blank">download it here</a>.
-</p>
+</p> -->
+
