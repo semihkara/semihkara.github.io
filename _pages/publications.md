@@ -17,16 +17,15 @@ nav_order: 2
 
 <!-- {% bibliography %} -->
 
-## Journal Publications
 {% bibliography --file journal %}
 
-## Conference Publications
+<!-- ## Conference Publications
 {% bibliography --file conference %}
 
 ## Preprints
 {% bibliography --file arxiv %}
 
 ## Future Work Near Completion
-{% bibliography --file future_work %}
+{% bibliography --file future_work %} -->
 
 </div>
