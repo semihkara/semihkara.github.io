@@ -24,7 +24,7 @@ nav_order: 2
 {% bibliography --file conference %}
 
 ## Preprints
-{% bibliography --file preprints %}
+{% bibliography --file arxiv %}
 
 ## Future Work Near Completion
 {% bibliography --file future_work %}
