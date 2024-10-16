@@ -17,7 +17,7 @@ nav_order: 2
 
 <!-- {% bibliography %} -->
 
-{% bibliography --file journal %}
+{% bibliography %}
 
 <!-- ## Conference Publications
 {% bibliography --file conference %}
