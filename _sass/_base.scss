@@ -830,6 +830,16 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+
+  /* MY ADDITION FOR REFERENCE SUBHEADER */
+  .publication-subheader {
+    text-align: center;  /* Center align text */
+    color: blue;         /* Set text color to blue */
+    font-size: 2em;      /* Adjust font size as needed (e.g., large font) */
+    margin-top: 20px;    /* Add some space above the subheading */
+    margin-bottom: 10px; /* Add some space below the subheading */
+    font-weight: bold;    /* Make the font bold (optional) */
+  }
 }
 
 // Rouge Color Customization
