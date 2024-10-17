@@ -25,6 +25,6 @@ nav_order: 2
 
 ## Preprints
 <div class="publication-subheader">Preprints</div>
-{% bibliography --file preprints %}
+{% bibliography --file preprint %}
 
 </div>
