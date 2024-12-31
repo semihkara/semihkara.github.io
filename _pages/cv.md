@@ -13,7 +13,7 @@ nav_order: 5
 <!-- FOR USE WITH GOOGLE DRIVE-->
 
 <div style="text-align: center;">
-  <iframe 
+  <iframe
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://semihkara.github.io/assets/pdf/CV.pdf" 
     width="80%" height="800px" style="border: none;">
   </iframe>
@@ -26,8 +26,8 @@ nav_order: 5
 
 <!-- FOR USE WITH DROPBOX -->
 <!-- <div style="text-align: center;">
-  <iframe 
-    src="https://www.dropbox.com/scl/fi/aw56k6mbigm2nqzxg3iwj/CV.pdf?rlkey=1dpbcr9ki8ed7sztfywpol4ai&raw=1" 
+  <iframe
+    src="https://www.dropbox.com/scl/fi/aw56k6mbigm2nqzxg3iwj/CV.pdf?rlkey=1dpbcr9ki8ed7sztfywpol4ai&raw=1"
     width="80%" height="800px" style="border: none;">
   </iframe>
 </div>
@@ -35,4 +35,3 @@ nav_order: 5
 <p style="text-align: center;">
   If the PDF does not load, you can <a href="https://www.dropbox.com/scl/fi/aw56k6mbigm2nqzxg3iwj/CV.pdf?rlkey=1dpbcr9ki8ed7sztfywpol4ai&raw=1" target="_blank">download it here</a>.
 </p> -->
-
